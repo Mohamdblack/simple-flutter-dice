@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![ezgif com-gif-maker](https://github.com/Mohamdblack/simple-flutter-dice/assets/80043651/05c68334-1a62-4585-abc7-108c84da6842)
